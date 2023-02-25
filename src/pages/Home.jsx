@@ -16,6 +16,7 @@ const Home =()=>{
       <div>
          <span><Navbar/></span>
 <span><Search/></span>
+<span>hello</span>
 
         
 </div>
